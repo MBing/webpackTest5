@@ -11,10 +11,15 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.22.0",
+    "file-loader": "^0.8.4",
+    "jade": "^1.9.0",
+    "jade-html-loader": "0.0.3",
+    "jade-loader": "^0.8.0",
+    "json-loader": "^0.5.3",
     "node-libs-browser": "^0.5.2",
     "style-loader": "^0.13.0",
     "stylus": "^0.52.4",
     "stylus-loader": "^1.4.2",
-    "webpack": "^1.9.10"
+    "webpack": "^1.12.0"
   }
 }
